@@ -1,0 +1,42 @@
+{
+    "writer": [
+        "versions, editions, or translations authored;events where she/he served as an exhibited creator",
+        "versions, editions, or translations authored;television series presented",
+        "events where she/he served as an exhibited creator;television series presented"
+    ],
+    "university teacher": [
+        "humans advised by her/him as a doctoral advisor;written works for which she/he served as a thesis committee member",
+        "humans advised by her/him as a doctoral advisor;the number of awards named after her/him",
+        "written works for which she/he served as a thesis committee member;the number of awards named after her/him"
+    ],
+    "singer": [
+        "albums performed by her/him;music tracks with vocals produced by her/him",
+        "albums performed by her/him;eurovision Song Contest entries featuring her/him as a contributor to a creative work or subject",
+        "music tracks with vocals produced by her/him;eurovision Song Contest entries featuring her/him as a contributor to a creative work or subject"
+    ],
+    "journalist": [
+        "versions, editions, or translations authored her/him;events where she/he served as an exhibited creator",
+        "versions, editions, or translations authored her/him;prints depicting her/him",
+        "events where she/he served as an exhibited creator;prints depicting her/him"
+    ],
+    "poet": [
+        "literary works authored by her/him;singles performed by her/him",
+        "literary works authored by her/him;television films for which she/he served as a screenwriter",
+        "singles performed by her/him;television films for which she/he served as a screenwriter"
+    ],
+    "actor": [
+        "films in which she/he served as a cast member;musical works or compositions with lyrics by her/him",
+        "films in which she/he served as a cast member;singles composed by her/him",
+        "musical works or compositions with lyrics by her/him;singles composed by her/him"
+    ],
+    "painter": [
+        "paintings created by her/him;prints created after a work by her/him",
+        "paintings created by her/him;art museums named after her/him",
+        "prints created after a work by her/him;art museums named after her/him"
+    ],
+    "composer": [
+        "musical works or compositions composed by her/him;Christian hymns with lyrics written by her/him",
+        "musical works or compositions composed by her/him;obituaries featuring a composer as the main subject",
+        "Christian hymns with lyrics written by her/him;obituaries featuring a composer as the main subject"
+    ]
+}

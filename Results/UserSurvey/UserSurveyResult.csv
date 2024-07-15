@@ -1,0 +1,19 @@
+id,method,profession,kendall_tau
+2022,betweenUsers,writer,0.610136452
+2023,betweenUsers,university teacher,0.454191033
+2024,betweenUsers,singer,0.235867446
+2025,betweenUsers,journalist,0.251461988
+2026,betweenUsers,poet,0.555555556
+2027,betweenUsers,actor,0.586744639
+2028,betweenUsers,painter,0.360623782
+2029,betweenUsers,composer,0.454191033
+2030,betweenUsers,All,0.438596491
+2031,gini*prop,groundTruth-writer,1
+2032,gini*prop,groundTruth-university teacher,1
+2033,gini*prop,groundTruth-singer,1
+2034,gini*prop,groundTruth-journalist,1
+2035,gini*prop,groundTruth-poet,1
+2036,gini*prop,groundTruth-actor,1
+2037,gini*prop,groundTruth-painter,1
+2038,gini*prop,groundTruth-composer,0.333333333
+2039,gini*prop,groundTruth-All,0.916666667
